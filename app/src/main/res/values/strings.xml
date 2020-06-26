@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Voting</string>
+    <string name="vote_your_best_candidate_string"><![CDATA[VOTE YOUR BEST CANDIDATE]]></string>
+    <string name="mulai_string">Mulai</string>
+    <string name="drawkit_grape_pack_illustration_7">drawkit_grape_pack_illustration_7</string>
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="dashboard_string">Dashboard</string>
+    <string name="akbar_al_zaini_string">Akbar Al Zaini</string>
+    <string name="edit_profil_string">Edit Profil</string>
+    <string name="akbar_al_zaini_ek1_string">Akbar Al Zaini</string>
+    <string name="xi_mipa_4_string">XI MIPA 4</string>
+    <string name="visi_string">Visi</string>
+    <string name="loriem_ipsum_dolor_set_amet_laidirian_modd_dish_sbu_sbts_string">Loriem Ipsum dolor set amet laidirian modd dish sbu sbts</string>
+    <string name="akbar_al_zaini_ek2_string">Akbar Al Zaini</string>
+    <string name="xi_ips_2_string">XI IPS 2</string>
+    <string name="visi_ek1_string">Visi</string>
+    <string name="loriem_ipsum_dolor_set_amet_laidirian_modd_dish_sbu_sbts_ek1_string">Loriem Ipsum dolor set amet laidirian modd dish sbu sbts</string>
+    <string name="edit_kandidat_string">Edit Kandidat</string>
+    <string name="kandidat_string">Kandidat</string>
+    <string name="tambah_kandidat_string">Tambah Kandidat</string>
+    <string name="edit_kandidat_ek1_string">Edit Kandidat</string>
+    <string name="login_string">LOGIN</string>
+    <string name="janedoe123_email_com_string">janedoe123@email.com</string>
+    <string name="email_ek1_string">EMAIL</string>
+    <string name="__________________________string">************************</string>
+    <string name="password_ek1_string">PASSWORD</string>
+    <string name="login_ek1_string">Login</string>
+</resources>

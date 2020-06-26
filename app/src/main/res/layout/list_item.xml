@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/group_138"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/kandidat"
+    android:layout_margin="12dp">
+
+    <RelativeLayout
+        android:id="@+id/group_119_ek1"
+        android:layout_width="match_parent"
+        android:layout_height="136dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="6dp">
+
+        <View
+            android:id="@+id/rectangle_2208"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/rectangle_2208_shape" />
+
+        <FrameLayout
+            android:id="@+id/t1"
+            android:layout_width="105dp"
+            android:layout_height="105dp"
+            android:layout_margin="12dp">
+
+            <ImageView
+                android:id="@+id/gambar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:padding="6dp"
+                android:contentDescription="t1" />
+
+            <ImageView
+                android:src="@drawable/frame"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="6dp"
+            android:layout_toRightOf="@id/t1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/nama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:fontFamily="Segoe UI"
+                android:text="@string/akbar_al_zaini_ek2_string"
+                android:textColor="@color/akbar_al_zaini_ek1_color"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/kelas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="Ubuntu"
+                android:text="@string/xi_ips_2_string"
+                android:textColor="@color/xi_mipa_4_color"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kandidat No 1"/>
+
+
+            <RelativeLayout
+                android:id="@+id/group_157_ek1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginBottom="8dp">
+
+                <View
+                    android:id="@+id/rectangle_2214_ek1"
+                    android:layout_width="110dp"
+                    android:layout_height="26dp"
+                    android:background="@drawable/rectangle_2214_ek1_shape" />
+
+                <TextView
+                    android:id="@+id/edit_kandidat_ek1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="26dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@id/icon_material_mode_edit_ek1"
+                    android:fontFamily="Calibri"
+                    android:gravity="center"
+                    android:text="@string/edit_kandidat_ek1_string"
+                    android:textColor="@color/dashboard_color"
+                    android:textSize="12dp" />
+
+                <ImageView
+                    android:id="@+id/icon_material_mode_edit_ek1"
+                    android:layout_width="15dp"
+                    android:layout_height="24dp"
+                    android:layout_marginLeft="8dp"
+                    android:contentDescription="icon_material_mode_edit_ek1"
+                    android:src="@drawable/edit" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

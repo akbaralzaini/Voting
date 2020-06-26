@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#5c4db1</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="_bg__splashscreen_color">#5c4db1</color>
+    <color name="vote_your_best_candidate_color">#ffffff</color>
+    <color name="rectangle_1_color">#ffffff</color>
+    <color name="mulai_color">#5c4db1</color>
+
+    <color name="_bg__home___1_color">#5c4db1</color>
+    <color name="dashboard_color">#ffffff</color>
+    <color name="rectangle_2_color">#fafafa</color>
+    <color name="akbar_al_zaini_color">#303030</color>
+    <color name="rectangle_3_color">#1ed670</color>
+    <color name="akbar_al_zaini_ek1_color">#212121</color>
+    <color name="xi_mipa_4_color">#ff6969</color>
+    <color name="visi_color">#202020</color>
+    <color name="loriem_ipsum_dolor_set_amet_laidirian_modd_dish_sbu_sbts_color">#606060</color>
+    <color name="rectangle_2208_color">#ffffff</color>
+    <color name="kandidat_color">#5c4db1</color>
+
+    <color name="_bg__login_color">#5c4db1</color>
+    <color name="rectangle_4_color">#ff6969</color>
+    <color name="login_color">#ffffff</color>
+    <color name="janedoe123_email_com_color">#515c6f</color>
+    <color name="ellipse_18_color">#727c8e</color>
+</resources>
