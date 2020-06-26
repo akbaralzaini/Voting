@@ -26,4 +26,21 @@
     <string name="__________________________string">************************</string>
     <string name="password_ek1_string">PASSWORD</string>
     <string name="login_ek1_string">Login</string>
+
+    <string name="kandidat_1_string">Kandidat 1</string>
+    <string name="lahat__11_maret_1999_string">Lahat, 11 Maret 1999</string>
+    <string name="alamat_string">Alamat</string>
+    <string name="lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_deleniti_error_neque_quod_sapiente_optio_voluptatem_magni_voluptas_illum_illo_nobis_accusantium_laboriosam_facere_ducimus_ipsa__voluptate_impedit_assumenda_nulla_string">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil deleniti error neque quod sapiente optio voluptatem magni voluptas illum illo nobis accusantium laboriosam facere ducimus ipsa, voluptate impedit assumenda nulla</string>
+    <string name="misi_string">Misi</string>
+    <string name="misi_ek1_string">Misi</string>
+    <string name="_1__lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_______deleniti_error_neque_quod_sapiente__2__lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_______deleniti_error_neque_quod_sapiente__3__lorem_ipsum__dolor_sit_amet_consect_string"><![CDATA[1. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil
+    deleniti error neque quod sapiente
+
+2. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil
+    deleniti error neque quod sapiente
+
+3. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil
+    deleniti error neque quod sapiente]]></string>
+    <string name="pilih_string">Pilih</string>
+    <string name="kembali_string">Kembali</string>
 </resources>

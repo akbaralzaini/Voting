@@ -26,4 +26,13 @@
     <color name="login_color">#ffffff</color>
     <color name="janedoe123_email_com_color">#515c6f</color>
     <color name="ellipse_18_color">#727c8e</color>
+
+    <color name="_bg__detai_kandidat_color">#fafafa</color>
+    <color name="rectangle_2_color_detail">#5c4db1</color>
+    <color name="kandidat_1_color">#ffffff</color>
+    <color name="team5_color">#d3abab</color>
+    <color name="akbar_al_zaini_color_detail">#212121</color>
+    <color name="rectangle_2212_color">#ffffff</color>
+    <color name="visi_ek1_color">#5c4db1</color>
+    <color name="rectangle_2213_color">#1ed670</color>
 </resources>

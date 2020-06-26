@@ -1,0 +1,253 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="match_parent" >
+
+			<RelativeLayout android:id="@+id/group_7"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
+
+				<View android:id="@+id/rectangle_2"
+					android:background="@drawable/rectangle_2_shape_detail"
+					android:layout_marginLeft="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="match_parent"
+					android:layout_height="60dp" />
+
+				<TextView android:id="@+id/kandidat_1"
+					android:fontFamily="Calibri"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="16sp"
+					android:textColor="@color/kandidat_1_color"
+					android:layout_marginTop="22dp"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/kandidat_1_string"
+					/>
+
+			</RelativeLayout>
+
+			<RelativeLayout android:id="@+id/group_140"
+				android:layout_below="@id/group_7"
+				android:layout_margin="12dp"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
+
+
+				<RelativeLayout android:id="@+id/group_119"
+					android:layout_marginTop="0dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content">
+
+					<FrameLayout
+						android:id="@+id/akbaralzaini_copy"
+						android:layout_width="100dp"
+						android:layout_height="100dp">
+
+						<ImageView
+							android:id="@+id/gambar"
+							android:layout_width="match_parent"
+							android:layout_height="match_parent"
+							android:scaleType="centerCrop"
+							android:padding="6dp"
+							android:src="@drawable/akbaralzainiy"
+							android:contentDescription="t1" />
+
+						<ImageView
+							android:src="@drawable/profilframe"
+							android:layout_width="match_parent"
+							android:layout_height="match_parent" />
+					</FrameLayout>
+
+					<LinearLayout
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:orientation="vertical"
+						android:layout_marginLeft="8dp"
+						android:layout_toRightOf="@id/akbaralzaini_copy">
+
+						<TextView android:id="@+id/akbar_al_zaini"
+							android:fontFamily="Calibri"
+							android:textStyle="bold"
+							android:textSize="24sp"
+							android:textColor="@color/akbar_al_zaini_color"
+							android:layout_marginTop="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="34dp"
+							android:text="@string/akbar_al_zaini_string"
+							/>
+
+						<TextView android:id="@+id/xi_mipa_4"
+							android:fontFamily="Ubuntu"
+							android:gravity="center"
+							android:textColor="@color/xi_mipa_4_color"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:text="@string/xi_mipa_4_string"
+							/>
+
+						<RelativeLayout android:id="@+id/group_142"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content">
+
+							<TextView android:id="@+id/lahat__11_maret_1999"
+								android:fontFamily="Calibri"
+								android:textSize="12sp"
+								android:textColor="@color/akbar_al_zaini_color"
+								android:layout_marginLeft="17dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								android:text="@string/lahat__11_maret_1999_string"
+								/>
+
+							<ImageView android:id="@+id/icon_material_date_range"
+								android:src="@drawable/icon_material_date_range"
+								android:contentDescription="icon_material_date_range"
+								android:layout_marginLeft="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="10.306274414062dp"
+								android:layout_height="11.451416015625dp" />
+
+						</RelativeLayout>
+
+
+						<RelativeLayout android:id="@+id/group_144"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content">
+
+
+							<RelativeLayout android:id="@+id/group_143"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="16dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content">
+
+								<TextView android:id="@+id/alamat"
+									android:fontFamily="Calibri"
+									android:textSize="12sp"
+									android:textColor="@color/akbar_al_zaini_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="40dp"
+									android:layout_height="16dp"
+									android:text="@string/alamat_string"
+									/>
+
+							</RelativeLayout>
+
+							<ImageView android:id="@+id/icon_awesome_map_marker_alt"
+								android:src="@drawable/icon_awesome_map_marker_alt"
+								android:contentDescription="icon_awesome_map_marker_alt"
+								android:layout_marginLeft="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="8.7972412109375dp"
+								android:layout_height="11.729675292969dp" />
+
+						</RelativeLayout>
+
+					</LinearLayout>
+
+
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+			<RelativeLayout android:id="@+id/group_146"
+				android:layout_below="@id/group_140"
+				android:layout_margin="12dp"
+				android:layout_width="match_parent"
+				android:background="@drawable/rectangle_2212_shape"
+				android:layout_height="wrap_content">
+
+
+				<TextView android:id="@+id/visi"
+					android:fontFamily="Calibri"
+					android:textStyle="bold"
+					android:alpha="0.10000000149012"
+					android:textSize="50sp"
+					android:textColor="@color/akbar_al_zaini_color"
+					android:layout_marginLeft="20dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/visi_string"/>
+
+
+				<TextView android:id="@+id/visi_ek1"
+					android:fontFamily="Calibri"
+					android:textStyle="bold"
+					android:textSize="24sp"
+					android:textColor="@color/visi_ek1_color"
+					android:layout_marginLeft="12dp"
+					android:layout_marginTop="11dp"
+					android:layout_width="41dp"
+					android:layout_height="34dp"
+					android:text="@string/visi_ek1_string"/>
+
+				<TextView android:id="@+id/lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_deleniti_error_neque_quod_sapiente_optio_voluptatem_magni_voluptas_illum_illo_nobis_accusantium_laboriosam_facere_ducimus_ipsa__voluptate_impedit_assumenda_nulla"
+					android:fontFamily="Calibri"
+					android:textColor="@color/akbar_al_zaini_color"
+					android:layout_marginLeft="12dp"
+					android:layout_marginRight="12dp"
+					android:layout_marginBottom="12dp"
+					android:layout_below="@id/visi_ek1"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_deleniti_error_neque_quod_sapiente_optio_voluptatem_magni_voluptas_illum_illo_nobis_accusantium_laboriosam_facere_ducimus_ipsa__voluptate_impedit_assumenda_nulla_string"
+					 />
+
+			</RelativeLayout>
+
+			<RelativeLayout android:id="@+id/group_147"
+				android:background="@drawable/rectangle_2212_ek1_shape"
+				android:layout_below="@id/group_146"
+				android:layout_margin="12dp"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
+
+				<TextView android:id="@+id/misi"
+					android:fontFamily="Calibri"
+					android:textStyle="bold"
+					android:alpha="0.10000000149012"
+					android:textSize="50sp"
+					android:textColor="@color/akbar_al_zaini_color"
+					android:layout_marginLeft="20dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="128dp"
+					android:layout_height="100dp"
+					android:text="@string/misi_string" />
+
+				<TextView android:id="@+id/misi_ek1"
+					android:fontFamily="Calibri"
+					android:textStyle="bold"
+					android:textSize="24sp"
+					android:textColor="@color/visi_ek1_color"
+					android:layout_marginLeft="15dp"
+					android:layout_marginTop="11dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/misi_ek1_string"/>
+
+				<TextView android:id="@+id/_1__lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_______deleniti_error_neque_quod_sapiente__2__lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_______deleniti_error_neque_quod_sapiente__3__lorem_ipsum__dolor_sit_amet_consect"
+					android:fontFamily="Calibri"
+					android:textColor="@color/akbar_al_zaini_color"
+					android:layout_marginLeft="12dp"
+					android:layout_marginBottom="15dp"
+					android:layout_marginRight="12dp"
+					android:layout_below="@id/misi_ek1"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/_1__lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_______deleniti_error_neque_quod_sapiente__2__lorem_ipsum__dolor_sit_amet_consectetur_adipisicing_elit__nihil_______deleniti_error_neque_quod_sapiente__3__lorem_ipsum__dolor_sit_amet_consect_string"
+					 />
+
+			</RelativeLayout>
+
+</RelativeLayout>
